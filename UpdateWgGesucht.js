@@ -29,7 +29,7 @@ const options = {
 	args,
 	headless: true,
 	ignoreHTTPSErrors: true,
-//	executablePath: '/usr/bin/chromium-browser',	// specify if you need use a standaline chromium version
+//	executablePath: '/usr/bin/chromium-browser',	// specify if you get errors concerning the location of chromium-browser
 };
 
 const puppeteer = require( 'puppeteer-extra' );
