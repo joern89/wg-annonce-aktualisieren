@@ -17,5 +17,10 @@ Um den Direktlink zu erhalten ist ein einmaliges Einloggen bei WG-Gesucht erford
 
 Unter Umständen kann es erforderlich sein, den executablePath zum chromium-browser explizit anzugeben. Bei meinen Tests war dies unter RaspiOS erforderlich. Unter Windows 10 mit bereits installiertem Chrome-Browser waren keine Anpassungen nötig. Der Pfad kann im standardmäßig auskommentierten Eintrag `executablePath: '/usr/bin/chromium-browser',` vorgegeben werden.
 
+Sind die vorstehenden Schritte erledigt kann das Skript über die Konsole ausgeführt werden:
+```bash
+node UpdateWgGesucht.js
+```bash
+
 ### Hinweis
 Die Benutzung meines Skriptes erfolgt auf eigene Verantwortung. Ich übernehme keine Haftung für eventuelle Folgen, die durch die vorgesehene oder eine eventuelle missbräuchliche Nutzung dieses Skriptes entstehen.
