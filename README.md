@@ -20,7 +20,7 @@ Unter Umständen kann es erforderlich sein, den executablePath zum chromium-brow
 Sind die vorstehenden Schritte erledigt kann das Skript über die Konsole ausgeführt werden:
 ```bash
 node UpdateWgGesucht.js
-```bash
+```
 
 ### Hinweis
 Die Benutzung meines Skriptes erfolgt auf eigene Verantwortung. Ich übernehme keine Haftung für eventuelle Folgen, die durch die vorgesehene oder eine eventuelle missbräuchliche Nutzung dieses Skriptes entstehen.
