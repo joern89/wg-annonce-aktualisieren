@@ -15,7 +15,7 @@ Puppeteer und die erforderlichen Plugins können auch direkt über npm installie
 Die Login-Daten und der Direktlink zur Anzeige müssen oben im Skript eingetragen werden. Da diese Informationen im Skript anschließend im Klartext vorliegen, sollte sichergestellt werden, dass kein Unbefugter Zugriff auf das Skript hat.
 Um den Direktlink zu erhalten ist ein einmaliges Einloggen bei WG-Gesucht erforderlich. Dort klickt man bei der gewünschten Anzeige "Bearbeiten" an und kopiert die URL der Bearbeiten-Seite.
 
-Unter Umständen kann es erforderlich sein, den executablePath zum chromium-browser explizit anzugeben. Bei meinen Tests war dies unter RaspiOS erforderlich. Unter Windows 10 mit bereits installiertem Chrome-Browser waren keine Anpassungen nötig. Der Pfad kann im standardmäßig auskommentierten Eintrag ´executablePath: '/usr/bin/chromium-browser',´ vorgegeben werden.
+Unter Umständen kann es erforderlich sein, den executablePath zum chromium-browser explizit anzugeben. Bei meinen Tests war dies unter RaspiOS erforderlich. Unter Windows 10 mit bereits installiertem Chrome-Browser waren keine Anpassungen nötig. Der Pfad kann im standardmäßig auskommentierten Eintrag `executablePath: '/usr/bin/chromium-browser',` vorgegeben werden.
 
 ### Hinweis
 Die Benutzung meines Skriptes erfolgt auf eigene Verantwortung. Ich übernehme keine Haftung für eventuelle Folgen, die durch die vorgesehene oder eine eventuelle missbräuchliche Nutzung dieses Skriptes entstehen.
