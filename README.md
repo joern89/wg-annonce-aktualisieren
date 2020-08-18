@@ -10,6 +10,7 @@ Das Skript benötigt:
 - Puppeteer (https://github.com/puppeteer/puppeteer.git)
 - Puppeteer-Extra-Plugin (https://github.com/berstend/puppeteer-extra.git)
 - Puppeteer-Extra-Plugin-Stealth (s.o.)
+
 Puppeteer und die erforderlichen Plugins können auch direkt über npm installiert werden.
 
 Die Login-Daten und der Direktlink zur Anzeige müssen oben im Skript eingetragen werden. Da diese Informationen im Skript anschließend im Klartext vorliegen, sollte sichergestellt werden, dass kein Unbefugter Zugriff auf das Skript hat.
