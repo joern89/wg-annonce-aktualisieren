@@ -24,4 +24,4 @@ node UpdateWgGesucht.js
 ```
 
 ### Hinweis
-Die Benutzung meines Skriptes erfolgt auf eigene Verantwortung. Ich übernehme keine Haftung für eventuelle Folgen, die durch die vorgesehene oder eine eventuelle missbräuchliche Nutzung dieses Skriptes entstehen.
+Die Benutzung meines Skriptes erfolgt auf eigene Verantwortung. Ich übernehme keine Haftung für eventuelle Folgen, die durch die Nutzung dieses Skriptes entstehen.
