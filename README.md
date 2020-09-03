@@ -2,7 +2,7 @@
 Das Skript ermöglicht es, eine bestimmte, selbst eingestellte Anzeige bei WG-Gesucht zu aktualisieren. Durch das Aktualisieren kann die Anzeige unter den ersten Treffern gehalten werden und ist so besser auffindbar. WG-Gesucht hält für diesen Zweck eine "Aktualisieren"-Button bereit. Mein Skript nutzt Puppeteer und den headless mode von Chrome, bzw. Chromium um sich in den Account einzuloggen, zur "Bearbeiten & Aktualisieren"-Seite mit der jeweiligen Anzeige zu navigieren und dort auf "Aktualisieren" zu klicken.
 
 ### Anwendung
-Ich habe das Skript auf meinem RP3 mit RaspiOS light laufen lassen. Die Ausführung des Skripts erfolgte manuell via ssh vom Handy oder vom PC aus. Eine Automatisierung (bspw. zur täglichen Aktualisierung) sollte theoretisch möglich sein, erfordert jedoch weitere Schritte und wurde daher von mir nicht umgesetzt.
+Ich habe das Skript auf meinem RP3 mit RaspiOS light laufen lassen. Die Ausführung des Skripts erfolgte manuell via ssh vom Handy oder vom PC aus. Eine Automatisierung (bspw. zur täglichen Aktualisierung) sollte theoretisch möglich sein, erfordert jedoch weitere Schritte und wurde bisher nicht von mir umgesetzt.
 
 ### Vorbereitung
 Das Skript benötigt:
